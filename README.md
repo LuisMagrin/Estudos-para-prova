@@ -18,6 +18,7 @@ A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar
 
 `git push` - **envia as alterações da sua ***branch*** para o seu GitHub;**
 
+___________________________________________________________________________________
 
 ### Estilização de Texto:
 
@@ -36,6 +37,7 @@ A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar
 
 **Riscador -** `~~Texto Riscado~~`;
 
+___________________________________________________________________________________
 
 ### Estilização de lstas:
 
@@ -44,6 +46,7 @@ A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar
 
 **Números -** `1. Primeiro passo`;
 
+___________________________________________________________________________________
 
 ### Links e Imagens:
 
