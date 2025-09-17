@@ -3,7 +3,9 @@
 
 A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar seus termos, comandos e o que cada um faz!
 
-Comandos do Git:
+**Comandos do Git:**
+
+
 `git switch -c <nome_da_branch>` - **cria e entra na ***branch***;**
 
 `git add <nome_do_arquivo>` - **salva mudanças;**
