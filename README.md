@@ -3,7 +3,7 @@
 
 A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar seus termos, comandos e o que cada um faz!
 
-**### Comandos do Git:**
+### Comandos do Git:
 
 
 `git switch -c <nome_da_branch>` - **cria e entra na ***branch***;**
@@ -19,7 +19,8 @@ A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar
 `git push` - **envia as alterações da sua ***branch*** para o seu GitHub;**
 
 
-**### Estilização de Texto:**
+### Estilização de Texto:
+
 
 **Título pricipal: -** `# Título Principal`;
 
@@ -36,14 +37,15 @@ A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar
 **Riscador -** `~~Texto Riscado~~`;
 
 
-**### Estilização de lstas:**
+### Estilização de lstas:
+
 
 **Bolinhas -** `Só coloca * e dar espaço, e para colocar um subitem é só colocar um espaço maior, colocar um * e dar mais um espaço`;
 
 **Números -** `1. Primeiro passo`;
 
 
-**### Links e Imagens:**
+### Links e Imagens:
 
 
 **Link -** `[Visite o site tal] (URL_DO_SITE)`;
