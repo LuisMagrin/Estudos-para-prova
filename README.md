@@ -12,9 +12,9 @@ A prova do dia **17-09-2025** será sobre ***GitHub***, então tenho que estudar
 
 `git add .` - **atalho que já adiciona todos os arquivos modificados no commit atual;**
 
-`git commit -m <mensagem>` - **registras todas as mudanças no histórico do git;**
+`git commit -m <mensagem>` - **registra todas as mudanças no histórico do git;**
 
-`gir push -u origin <nome_da_branch>` - **enia a ***branch*** para o seu GitHub pela primeira vez;**
+`gir push -u origin <nome_da_branch>` - **envia a ***branch*** para o seu GitHub pela primeira vez;**
 
 `git push` - **envia as alterações da sua ***branch*** para o seu GitHub;**
 
@@ -54,6 +54,24 @@ ________________________________________________________________________________
 **Link -** `[Visite o site tal] (URL_DO_SITE)`;
 
 **Imagem -** `! [Imagem tal] (URL_DA_IMAGEM]`;
+
+___________________________________________________________________________________
+
+### 🖱️Citações e Códigos:
+
+
+**Citação -** `> Está é uma citação`;
+
+**Destaque de comando -** `Use dois acentos invertidos nas extremidades do código que você quer destacar`;
+
+**Bloco de código -**
+
+Três acentos invertidos
+# Bloco de código
+...
+Três acentos invertidos;
+
+
 
 
 
